@@ -1,0 +1,14 @@
+{
+  "name": "thaipass",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "@playwright/test": "^1.17.1"
+  },
+  "scripts": {
+    "test": "npx playwright test --workers=6"
+  },
+  "author": "",
+  "license": "ISC"
+}
