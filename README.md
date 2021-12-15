@@ -19,3 +19,9 @@ npm test
 ```
 
 __Note:__ First run will fail because of missing screenshots.
+
+## Debug
+
+```
+npm test -- --headed
+```
